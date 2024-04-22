@@ -1,0 +1,6 @@
+@SviatoslavSkobalskyi.Meninx.DevTestTask.API_HostAddress = http://localhost:5278
+
+GET {{SviatoslavSkobalskyi.Meninx.DevTestTask.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
